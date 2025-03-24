@@ -24,7 +24,7 @@ YelpCamp is a **full-stack web application** that allows users to browse, review
 ---
 
 ## 🌍 Live Demo
-🚀 **Check out the live version:** [Coming Soon](#)
+🚀 **Check out the live version:**  https://yelpcamp-k632.onrender.com/
 
 ---
 
