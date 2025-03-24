@@ -44,7 +44,6 @@ YelpCamp is a **full-stack web application** that allows users to browse, review
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Authentication:** Passport.js
-- **Mapping Service:** MapTiler
 - **Hosting:** Render (Deployment)
 - **Other:** EJS for templating, Cloudinary for image uploads
 
