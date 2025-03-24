@@ -14,7 +14,6 @@ Welcome to **YelpCamp**, your go-to platform for discovering and sharing the bes
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
