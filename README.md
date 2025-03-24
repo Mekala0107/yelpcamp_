@@ -120,13 +120,13 @@ YelpCamp/
 ## 🖼️ Screenshots
 
 ### 🏕️ Home Page
-![Home Page](public/images/homepage.png)
+![Home Page](images/homepage.png)
 
 ### 📌 Campsite Details Page
-![Campsite Details](public/images/campsite-details.png)
+![Campsite Details](images/campsite-details.png)
 
 ### 🔐 Login Page
-![Login Page](public/images/login.png)
+![Login Page](images/login.png)
 
 ---
 
@@ -138,16 +138,12 @@ Contributions are welcome! If you’d like to contribute:
 4. Push to your branch (`git push origin feature-branch`)
 5. Open a pull request! 🚀
 
----
-
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 
 ## 📩 Contact
 💡 Have questions? Reach out to me:
-- **GitHub:** [Your Username](https://github.com/your-username)
-- **Email:** your-email@example.com
+- **GitHub:** [Mekala0107](https://github.com/your-Mekala0107)
+- **Email:** mekalaselvi01@gmail.com
 
 🚀 **Happy Camping!** 🏕️🔥
