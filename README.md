@@ -21,10 +21,6 @@ Welcome to **YelpCamp**, your go-to platform for discovering and sharing the bes
 ## 🏕️ About the Project
 YelpCamp is a **full-stack web application** that allows users to browse, review, and add campsites across the United States. Whether you’re an adventure seeker or a casual traveler, YelpCamp helps you find the perfect camping spot!
 
----
-
-## 🌍 Live Demo
-🚀 **Check out the live version:**  https://yelpcamp-k632.onrender.com/
 
 ---
 
