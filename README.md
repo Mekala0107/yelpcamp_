@@ -1,4 +1,4 @@
-# 🌎 YelpCamp - The Ultimate US-Based Camping Platform
+# 🌎 YelpCamp - The Ultimate  Camping Platform
 
 Welcome to **YelpCamp**, your go-to platform for discovering and sharing the best campsites across the United States! 🚀
 
