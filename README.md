@@ -25,7 +25,7 @@ YelpCamp is a **full-stack web application** that allows users to browse, review
 ---
 
 ## ✨ Features
-✅ Browse thousands of US-based campsites 🌲  
+✅ Browse thousands of campsites 🌲  
 ✅ Add new campsites with images 📸  
 ✅ Leave reviews & ratings ⭐  
 ✅ Secure authentication & authorization 🔐  
